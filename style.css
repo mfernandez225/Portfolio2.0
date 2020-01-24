@@ -28,6 +28,13 @@ header {
   font-size: 40px;
 }
 
+.groupHeader {
+  font-family: "Caveat",
+    cursive;
+  font-size: 40px;
+  color: #eee8aa;
+}
+
 #resume {
   font-family: "Caveat", cursive;
   font-size: 20px;
@@ -43,6 +50,7 @@ header {
 
 footer {
   background: #eee8aa;
+  border: 5px solid #eee8aa;
 }
 
 /* Gold Color #eee8aa */
